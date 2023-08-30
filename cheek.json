@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://cdn.jsdelivr.net/gh/HEOJUNFO/skpFace@main/Cheek.gltf",
+    "dataType": "model",
+    "facePosition": 19,
+    "position": {
+      "x": -0.02,
+      "y": 0.02,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0.45,
+      "y": 0.45,
+      "z": 1
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://cdn.jsdelivr.net/gh/HEOJUNFO/skpFace@main/Earring.gltf",
+    "dataType": "model",
+    "facePosition": 127,
+    "position": {
+      "x": -0.03,
+      "y": -0.28,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0.6,
+      "y": 0.6,
+      "z": 1
+    }
+  }
+]

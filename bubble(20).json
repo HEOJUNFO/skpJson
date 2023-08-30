@@ -1,0 +1,16 @@
+[
+  {
+    "preset": "snow",
+    "texture": "https://cdn.jsdelivr.net/gh/HEOJUNFO/skpEffect@main/Bubble (20).png",
+    "color": "#ffffff",
+    "particleCount": 80,
+    "velocityValue": "0 15 0",
+    "accelerationValue": "0, 2, 0",
+    "maxAge": 3,
+    "size": "8",
+    "sizeSpread": "0",
+    "opacity": "0.84",
+    "opacitySpread": "0.18",
+    "positionSpread": "100 100 100"
+  }
+]

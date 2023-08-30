@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://cdn.jsdelivr.net/gh/HEOJUNFO/skpFace@main/Headset(2).gltf",
+    "dataType": "model",
+    "facePosition": 168,
+    "position": {
+      "x": -0.023,
+      "y": 0.08,
+      "z": -0.4
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0.8,
+      "y": 0.8,
+      "z": 1
+    }
+  }
+]

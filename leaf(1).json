@@ -1,0 +1,16 @@
+[
+  {
+    "preset": "dust",
+    "texture": "https://cdn.jsdelivr.net/gh/HEOJUNFO/skpEffect@main/effect_Leaf (1).png",
+    "color": "#ffffff",
+    "particleCount": 80,
+    "velocityValue": "0 5 0",
+    "accelerationValue": "0, 0, 0",
+    "maxAge": 7,
+    "size": "7.5",
+    "sizeSpread": "0",
+    "opacity": "1",
+    "opacitySpread": "0.78",
+    "positionSpread": "100 100 100"
+  }
+]

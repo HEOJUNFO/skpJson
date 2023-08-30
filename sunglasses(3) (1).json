@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://cdn.jsdelivr.net/gh/HEOJUNFO/skpFace@main/Sunglasses(3).gltf",
+    "dataType": "model",
+    "facePosition": 168,
+    "position": {
+      "x": 0,
+      "y": 0.04,
+      "z": -0.9
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0.55,
+      "y": 0.55,
+      "z": 1
+    }
+  }
+]

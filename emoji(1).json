@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://cdn.jsdelivr.net/gh/HEOJUNFO/skpFace@main/Emoji (1).gltf",
+    "dataType": "model",
+    "facePosition": 168,
+    "position": {
+      "x": 0.26,
+      "y": -0.24,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0.11,
+      "y": 0.11,
+      "z": 1
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://cdn.jsdelivr.net/gh/HEOJUNFO/skpFace@main/PuppyHead.gltf",
+    "dataType": "model",
+    "facePosition": 10,
+    "position": {
+      "x": -0.03,
+      "y": 0.1,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0.65,
+      "y": 0.65,
+      "z": 1
+    }
+  }
+]
