@@ -1,0 +1,20 @@
+[
+  {
+    "texture": "https://cdn.jsdelivr.net/gh/HEOJUNFO/skpEffect@main/explosion_sheet.png",
+    "color": "#ffffff",
+    "velocity": "0 4.5 0",
+    "acceleration": "0 0 0",
+    "velocitySpread": "2.5 0 3.4",
+    "maxAge": 1,
+    "textureFrames": "5 5 1",
+    "particleCount": 2,
+    "distribution": "BOX",
+    "activeMultiplier": 1,
+    "positionSpread": "0 0 0",
+    "radius": 1,
+    "drag": 0,
+    "opacity": "1",
+    "size": "17",
+    "position": "-1.5 0 -5"
+  }
+]

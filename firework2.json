@@ -1,0 +1,20 @@
+[
+  {
+    "texture": "https://cdn.jsdelivr.net/gh/HEOJUNFO/skpEffect@main/blob.png",
+    "color": "#fff70a,#ff0000",
+    "velocity": "5 10 0",
+    "acceleration": "4.2 0 0",
+    "velocitySpread": "2.5 0 0",
+    "maxAge": 0.5,
+    "textureFrames": "1 1",
+    "particleCount": 100,
+    "distribution": "DISC",
+    "activeMultiplier": 1000,
+    "positionSpread": "0 0 0",
+    "radius": 0.3,
+    "drag": 1,
+    "opacity": "1,0.06",
+    "size": "1",
+    "position": "-1.5 0 -5"
+  }
+]
