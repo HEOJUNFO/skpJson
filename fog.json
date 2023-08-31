@@ -1,0 +1,20 @@
+[
+  {
+    "texture": "example/particle/assets/fog.png",
+    "color": "#ffffff",
+    "velocity": "2 1 0",
+    "acceleration": "0 2 0",
+    "velocitySpread": "2 0 2",
+    "maxAge": 1,
+    "textureFrames": "1 1",
+    "particleCount": 100,
+    "distribution": "BOX",
+    "activeMultiplier": 1,
+    "positionSpread": "2 0 2",
+    "radius": 1,
+    "drag": 0,
+    "opacity": "0,1,0",
+    "size": "2.9,8",
+    "position": "-1.5 0 -5"
+  }
+]
