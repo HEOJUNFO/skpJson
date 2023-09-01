@@ -1,0 +1,20 @@
+[
+  {
+    "texture": "https://dt-static.syrup.co.kr/preset/effect/낙엽/이펙트(128x128)/effect_Leaf (1).png",
+    "color": "#ffffff",
+    "velocity": "0 -0.1 0",
+    "acceleration": "0 0 0",
+    "velocitySpread": "0 0 0",
+    "maxAge": 10,
+    "textureFrames": "1 1",
+    "particleCount": 10,
+    "distribution": "BOX",
+    "activeMultiplier": 1,
+    "positionSpread": "2 2.9 0",
+    "radius": 1,
+    "drag": 0,
+    "opacity": "1",
+    "size": "1",
+    "position": "-1.5 0 -5"
+  }
+]
